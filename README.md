@@ -130,4 +130,18 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
 
+## Author - GreaterHeight Academy
+
+This project is part of our portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to fraternize, feel free to get in touch!
+
+### Stay Updated and Join the Community
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@TheSegunSamuel)
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/TheSegunSamuel/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/TheSegunSamuel)
+
+
+
 ---
