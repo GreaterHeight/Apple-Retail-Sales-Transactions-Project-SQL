@@ -33,7 +33,7 @@ Here’s the shortened and improved version of the "What’s Included" and "Why 
 ### Why Choose This Project?
 - **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
 - **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
-- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
+- **Exceptional Value**: For just **$18**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
 - **Limited Offer**: Special price available for the **first 100 students**!
 
 **Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
